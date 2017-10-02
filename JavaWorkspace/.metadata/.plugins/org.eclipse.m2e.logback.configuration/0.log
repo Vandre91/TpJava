@@ -1,0 +1,24 @@
+2017-10-01 20:05:31,753 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2017-10-01 20:11:43,477 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.intech.s5.backend.hotel.intech:backend-hotel-intech:0.0.1-SNAPSHOT @ C:\Users\vprig\Desktop\JavaWorkspace\JavaServer\pom.xml.
+2017-10-01 20:11:45,550 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaServer/src/main/java
+2017-10-01 20:11:45,552 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaServer/src/main/resources
+2017-10-01 20:11:45,553 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaServer/src/main/resources
+2017-10-01 20:11:45,555 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaServer/src/test/java
+2017-10-01 20:11:45,854 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-10-01 20:11:48,986 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-01 20:11:48,995 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-01 20:11:49,015 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-01 20:11:49,038 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-01 20:11:49,039 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vprig\Desktop\JavaWorkspace\JavaServer\src\test\resources
+2017-10-01 20:17:44,672 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-01 20:20:19,840 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.intech.s5.backend.hotel.intech:backend-hotel-intech:0.0.1-SNAPSHOT @ C:\Users\vprig\Desktop\JavaWorkspace\JavaServer\pom.xml.
+2017-10-01 20:20:20,794 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaServer/src/main/java
+2017-10-01 20:20:20,795 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaServer/src/main/resources
+2017-10-01 20:20:20,796 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaServer/src/main/resources
+2017-10-01 20:20:20,797 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaServer/src/test/java
+2017-10-01 20:20:21,250 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-10-01 20:20:32,070 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-01 20:20:32,079 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-01 20:20:32,103 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-01 20:20:32,128 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-01 20:20:32,128 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vprig\Desktop\JavaWorkspace\JavaServer\src\test\resources
